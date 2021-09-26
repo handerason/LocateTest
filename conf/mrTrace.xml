@@ -1,0 +1,17 @@
+<mrTrace>
+
+    <local>true</local>
+
+    <hive_readLib>x</hive_readLib>
+
+    <hive_readTable>x</hive_readTable>
+
+    <hive_insertLib>x</hive_insertLib>
+
+    <hive_insertTable>x</hive_insertTable>
+
+    <L0>105</L0>
+
+    <gridScale>50</gridScale>
+
+</mrTrace>
